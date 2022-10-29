@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kongkidakorn Chankana</h1>
 <h3 align="center">competitive programming and discord bot developing</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/Chuncheonian/0b458eb00f72d648e65d69ab08ca16b8/raw/91dfc8ec23b03cae760d6635d397aaf879f51c16/shiba.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kongggwp&label=Profile%20views&color=0e75b6&style=flat" alt="kongggwp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kongggwp" alt="kongggwp" /></a> </p>
