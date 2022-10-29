@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kongggwp" alt="kongggwp" /></a> </p>
 
+- 🔭 I’m currently working on competitive programming problems [Competitive-programming](https://github.com/kongggwp/Competitive-programming)
+
+- 🌱 I’m currently learning compettitive programing **algorithms and data structures**
+
+- 📫 How to reach me **dm via instagram**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kongggwp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kongggwp" height="30" width="40" /></a>
